@@ -325,3 +325,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/strea
 http://72.1.184.5:8089/play/a05d/index.m3u8
 #EXTINF:-1 tvg-id="BBCDrama.uk@Spain" tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="Series",BBC Drama (1080p)
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Venezolana de Televisión" tvg-logo="https://graph.facebook.com/VTVtuCanal/picture?width=800&height=800" tvg-id="venezolana-de-television.ve" tvg-chno="2" tvg-country="VE" group-title="Venezuela",Venezolana de Televisión
+https://geo.dailymotion.com/player/x5poh.html?video=k1yNOrgCd2jz9hBaDXQ&autoplay=true&volume=0
+#EXTINF:-1 tvg-name="Canal 21 Táchira" tvg-logo="" group-title="general", Canal 21 Táchira [VE]
+https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
