@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-name="13 Teleseries"tvg-id="13T.cl"tvg-logo="https://i.imgur.com/aJMBnse.png"tvg-chno="16"group-title="Chile":http-referrer="":http-user-agent="",13 Teleseries
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1 tvg-name="A&E Latin America (1080p)"tvg-id="AELatinAmerica.us@Panregional"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png"tvg-chno=""group-title="Entertainment":http-referrer="":http-user-agent="",A&E Latin America (1080p)
