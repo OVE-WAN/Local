@@ -301,7 +301,6 @@ https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
 https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8
 #EXTINF:-1 tvg-name="Venevision (576p)"tvg-id="Venevision.ve@SD"tvg-logo="https://i.imgur.com/gm1m8hW.png"tvg-chno=""group-title="General":http-referrer="":http-user-agent="",Venevision (576p)
 http://181.78.8.199:8000/play/a0if/index.m3u8
-http://177.234.249.178:8888/VENEVISION/index.m3u8
 #EXTINF:-1 tvg-name="Venevisión Internacional"tvg-id="VenevisionInternacional.ve@SD"tvg-logo="https://i.imgur.com/vtGED07.jpg"tvg-chno=""group-title="General":http-referrer="":http-user-agent="",Venevisión Internacional (720p)
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 tvg-name="Vive TV Colombia (1080p)"tvg-id="ViveTV.co@SD"tvg-logo="https://i.imgur.com/25CFHpB.png"tvg-chno=""group-title="General":http-referrer="":http-user-agent="",Vive TV Colombia (1080p)
