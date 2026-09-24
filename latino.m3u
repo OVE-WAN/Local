@@ -193,6 +193,8 @@ https://backupmaxmedia.hvmultiplay.com/hls/stream2/momento24.m3u8
 http://15.204.246.24:8080/MTVHD/index.m3u8
 #EXTINF:-1 tvg-name="Nexo TV"tvg-id="NexoTV.co@SD"tvg-logo="https://i.imgur.com/tkEFZWo.png"tvg-chno=""group-title="General":http-referrer="":http-user-agent="",Nexo TV
 https://vs20.live.opencaster.com/nexotv_7576198a/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonJunior.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png" group-title="Kids",Nickelodeon Junior (1080p)
+https://streamer.metronethn.com/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon Latin America (1080p)"tvg-id="NickelodeonLatinAmerica.us@Panregional"tvg-logo="https://i.imgur.com/E84jnP8.png"tvg-chno=""group-title="Kids":http-referrer="":http-user-agent="",Nickelodeon Latin America (1080p)
 http://15.204.246.24:8080/NickHD/index.m3u8
 #EXTINF:-1 tvg-name="Noticias RCN"tvg-id=""tvg-logo="https://graph.facebook.com/NoticiasRCN/picture?width=200&height=200"tvg-chno=""group-title="Int. América":http-referrer="":http-user-agent="",Noticias RCN
