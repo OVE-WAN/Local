@@ -63,7 +63,7 @@ https://movil.ejeserver.com/live/teledoradahd.m3u8
 https://movil.ejeserver.com/live/mundovisiontv.m3u8
 #EXTINF:-1 tvg-name="Canal Nets (720p) [Not 24/7]"tvg-id="CanalNets.co@SD"tvg-logo="https://i.imgur.com/edaAexc.png"tvg-chno=""group-title="Entertainment":http-referrer="":http-user-agent="",Canal Nets (720p) [Not 24/7]
 https://movil.ejeserver.com/live/nets.m3u8
-#EXTINF:-1 tvg-name="Canal Once"tvg-id="CanalOnce.mx"tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200"tvg-chno="10"group-title="Mexico":http-referrer="":http-user-agent="",Canal Once
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" group-title="Int. América" tvg-name="Canal Once México",Canal Once México
 https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal Oración Con Son (1080p)"tvg-id="CanalOracionConSon.co@SD"tvg-logo="https://i.imgur.com/rfnFqU3.png"tvg-chno=""group-title="Religious":http-referrer="":http-user-agent="",Canal Oración Con Son (1080p)
 https://canal.mediaserver.com.co/live/oracionconson.m3u8
@@ -207,6 +207,8 @@ https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/2
 https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
 #EXTINF:-1 tvg-name="Ondambiental TV (360p)"tvg-id="OndambientalTV.co@SD"tvg-logo="https://i.imgur.com/u5804Au.jpg"tvg-chno=""group-title="Culture;Music":http-referrer="":http-user-agent="",Ondambiental TV (360p)
 https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/oromartv/picture?width=200&height=200" group-title="Ecuador" tvg-name="Oromar TV Ecuador",Oromar TV Ecuador
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-name="Panamericana TV"tvg-id="PanamericanaTV.pe"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png"tvg-chno="5"group-title="Peru":http-referrer="":http-user-agent="",Panamericana TV
 http://45.171.108.253:8888/PANAMERICANA/index.m3u8
 #EXTINF:-1 tvg-name="Panche Television"tvg-id="PancheTelevision.co@SD"tvg-logo="https://i.imgur.com/BJVlOVA.jpeg"tvg-chno=""group-title="General":http-referrer="":http-user-agent="",Panche Television
@@ -299,6 +301,7 @@ https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
 https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8
 #EXTINF:-1 tvg-name="Venevision (576p)"tvg-id="Venevision.ve@SD"tvg-logo="https://i.imgur.com/gm1m8hW.png"tvg-chno=""group-title="General":http-referrer="":http-user-agent="",Venevision (576p)
 http://181.78.8.199:8000/play/a0if/index.m3u8
+http://177.234.249.178:8888/VENEVISION/index.m3u8
 #EXTINF:-1 tvg-name="Venevisión Internacional"tvg-id="VenevisionInternacional.ve@SD"tvg-logo="https://i.imgur.com/vtGED07.jpg"tvg-chno=""group-title="General":http-referrer="":http-user-agent="",Venevisión Internacional (720p)
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 tvg-name="Vive TV Colombia (1080p)"tvg-id="ViveTV.co@SD"tvg-logo="https://i.imgur.com/25CFHpB.png"tvg-chno=""group-title="General":http-referrer="":http-user-agent="",Vive TV Colombia (1080p)
